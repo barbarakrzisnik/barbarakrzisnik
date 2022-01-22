@@ -10,5 +10,7 @@ Here are some of the projects I coded at ADA ITW:
 - 🍸[Make ur drink](https://github.com/barbarakrzisnik?tab=repositories)
 
 ______
-Technologies I work with: 
-<img src="CSS.svg">
+Technologies I work with: <br>
+
+<img src="CSS.svg"> <img src="HTML.svg"> <img src="JS.svg">
+<img src="SASS.svg"> <img src="REACT.svg">
