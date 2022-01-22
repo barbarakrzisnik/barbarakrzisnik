@@ -14,3 +14,7 @@ Technologies I work with: <br>
 
 <img src="CSS.svg"> <img src="HTML.svg"> <img src="JS.svg">
 <img src="SASS.svg"> <img src="REACT.svg">
+
+______
+You can contact me at:
+barbarakrzisnik3@gmail.com
