@@ -1,4 +1,4 @@
-#HI! 🤗
+HI! 🤗
 My name is Barbara, i'm a photographer 📸 and frontend developer 💻.
 
 ______
